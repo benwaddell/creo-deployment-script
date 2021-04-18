@@ -6,7 +6,7 @@ This is a Windows batch script that I created to automate the deployment of our 
 
 ## What was the goal of this project?
 
-The goal was to completely automate the entire installation process, and to have it run as a background process completely invisible to the end-user. This script allowed us to save hundred of hours in support time, ensured consistent installations, and provided easy, efficient deployments while allowing the end-users to continue working entirely uninterrupted. 
+The goal was to completely automate the entire installation process, and to have it run in the background, completely invisible to the end-user. This script allowed us to save hundred of hours in support time, ensured consistent installations, and provided easy, efficient deployments while allowing the end-users to continue working entirely uninterrupted. 
 
 ## How It Works
 
